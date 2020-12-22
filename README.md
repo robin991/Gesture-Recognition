@@ -7,7 +7,9 @@ This assignment aims at preparing a gesture recognition model that can recognise
 3.	Left swipe: 'Jump' backwards 10 seconds
 4.	Right swipe: 'Jump' forward 10 seconds  
 5.	Stop: Pause the movie
+
 The training dataset is of 663 video folder and each folder/video has a sequence of 30 frames.
+
 Different dimension of input dataset to be used are 360 x 360 and 140 x 120 and each of these are in RGB coloured format (i.e. 3 channels input).
 
 ## Pre-processing:
