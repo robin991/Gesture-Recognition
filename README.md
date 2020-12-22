@@ -39,7 +39,7 @@ We are not choosing this model. Model architecture is not shown for this.
 
 
 ## Conclusion:
-Based on the below observations the performance of Convolution 3D is better out of the two. The ‘.h5’ is available along with this file giving the Training accuracy 83.90% and Validation Accuracy 82.0%
+Based on the below observations the performance of Convolution 3D is better out of the two.
 ### Conv3D:-
 Train_Accuracy: 0.839
 Val_Accuracy: 0.82
