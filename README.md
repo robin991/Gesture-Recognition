@@ -1,7 +1,7 @@
 # Gesture-Recognition
 
 ## Problem Statement:
-This assignment aims at preparing a gesture recognition model that can recognise five different gestures performed by the user. Each gesture corresponds to a specific task:
+This project aims at preparing a gesture recognition model that can recognise five different gestures performed by the user. Each gesture corresponds to a specific task:
 1.	Thumbs up:  Increase the volume
 2.	Thumbs down: Decrease the volume
 3.	Left swipe: 'Jump' backwards 10 seconds
